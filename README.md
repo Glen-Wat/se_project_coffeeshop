@@ -14,3 +14,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Adding images of coffee and foods from the menu to the menu section to help bring it to life.
+
+Deployment: [https://glen-wat.github.io/se_project_coffeeshop/]
